@@ -1,5 +1,9 @@
 # Hora_de_coda_in_java
 Sequência de exercicios propostos em Java
+
+
+
+
 📔 <b>1 - Baby Steps</b>
 
 >Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão".<br>
